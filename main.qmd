@@ -217,6 +217,10 @@ Should we use **symmetric** CI when we no longer assume symmetry in the data?
 
 ![](fakeoutlier.jpeg)
 
+##
+
+![](fakeoutlier.jpeg)
+
 - How should we construct prediction intervals with non-Gaussianity in mind?
 - How should we define *outliers* in movement patterns? e.g. How should we differentiate "meaningful" outliers that are not due to noises?
 
